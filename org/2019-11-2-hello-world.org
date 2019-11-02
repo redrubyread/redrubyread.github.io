@@ -1,0 +1,15 @@
+
+#+OPTIONS: toc:nil num:nil
+#+title: 第二此测试
+#+BEGIN_EXPORT html
+---
+layout: post
+title: "第二此测试"
+subtitle: "额嗯"
+permalink: /:title/
+tags: [emacs]
+comments: true
+---
+#+END_EXPORT
+
+* hello world
