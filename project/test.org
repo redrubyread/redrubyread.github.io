@@ -1,0 +1,14 @@
+#+OPTIONS: toc:nil num:nil
+#+title: my project
+#+BEGIN_EXPORT html
+---
+layout: post
+title: "my project"
+subtitle: "project test"
+permalink: /:title/
+tags: [emacs]
+comments: true
+---
+#+END_EXPORT
+
+eneneneeneneneneneneenenenenenenene
