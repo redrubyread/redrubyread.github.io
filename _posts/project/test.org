@@ -1,0 +1,15 @@
+
+#+OPTIONS: toc:nil num:nil
+#+title: test
+#+BEGIN_EXPORT html
+---
+layout: post
+title: "test"
+subtitle: "test"
+permalink: /:title/
+tags: [emacs]
+comments: true
+---
+#+END_EXPORT
+
+testdemo
