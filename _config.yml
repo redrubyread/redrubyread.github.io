@@ -21,8 +21,7 @@ title: Red's website
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  project: "/project/the-test-demo"
-  # Resources:
+# Resources:
     # - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     # - Learn markdown: "http://www.markdowntutorial.com/"
   # Author's home: "http://deanattali.com"
