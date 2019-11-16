@@ -21,7 +21,7 @@ title: Red's website
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  project: "/project/test"
+  project: "/project/project-manager-time"
 
 # Resources:
     # - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
