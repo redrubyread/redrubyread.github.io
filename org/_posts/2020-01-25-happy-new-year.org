@@ -1,0 +1,15 @@
+#+OPTIONS: toc:nil num:nil
+#+title: happy new year
+#+BEGIN_EXPORT html
+---
+layout: post
+title: "happy new year"
+subtitle: "新年好"
+permalink: /:title/
+tags: [new year]
+comments: true
+---
+#+END_EXPORT
+
+
+* happy new year
