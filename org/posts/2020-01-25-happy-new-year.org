@@ -16,5 +16,5 @@ jekyll 视频测试
 诸葛大力视频
 
 #+BEGIN_EXPORT html
-<iframe width="420" height="315" src="https://www.bilibili.com/video/av85177053?spm_id_from=333.851.b_7265706f7274466972737431.8" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="http://cloudvideo.thepaper.cn/video/e67d7e06daee40888917bf927c172db1/sd/b7328fa9-2e30-467a-8c5b-01a46f0cb104-569f67ca-d2b8-09bd-3954-403073ccc04e.mp4" frameborder="0" allowfullscreen></iframe>
 #+END_EXPORT
